@@ -1,0 +1,15 @@
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\bin\Debug\net7.0\ICE1.exe
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\bin\Debug\net7.0\ICE1.deps.json
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\bin\Debug\net7.0\ICE1.runtimeconfig.json
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\bin\Debug\net7.0\ICE1.dll
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\bin\Debug\net7.0\ICE1.pdb
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.AssemblyInfo.cs
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.dll
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\refint\ICE1.dll
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.pdb
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ICE1.genruntimeconfig.cache
+C:\Users\Win10\Desktop\MonashY2\Programming\Projects\ICE1\obj\Debug\net7.0\ref\ICE1.dll
